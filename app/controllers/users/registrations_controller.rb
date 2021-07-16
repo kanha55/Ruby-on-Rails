@@ -17,3 +17,9 @@ class Users::RegistrationsController < Devise::RegistrationsController
     render json: { message: "Something went wrong." }
   end
 end
+
+
+
+
+
+
